@@ -17,7 +17,7 @@ POSTMAN FİLE
 https://www.getpostman.com/collections/5f8aaffcfa5124852083
 
 
-YOUTUBE Vıdeo of hot ıt run
+YOUTUBE Vıdeo of **how ıt run
 
 https://youtu.be/SDaAoXMLIKc
 
