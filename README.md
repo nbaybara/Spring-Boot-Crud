@@ -11,6 +11,12 @@ To run program in project directory
 3- java -jar assignment-0.0.1-SNAPSHOT.jar    
 
 
+
+POSTMAN FİLE
+
+https://www.getpostman.com/collections/5f8aaffcfa5124852083
+
+
 *** Project will be upload on localhost:8080 by default which is set in appl.pro file
 
 For upload data :
